@@ -5,8 +5,3 @@
 - 📫 You can contact me through my Discord account: reefxr
 - 😄 I'm fine with any pronouns
 - ⚡ I love flying FPV drones -- I wish to build one myself one day
-
-<!---
-reefxr/reefxr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
