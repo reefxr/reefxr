@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @reefxr
-- 👀 I’m interested in video game development, robotics, and data science
-- 🌱 I’m currently learning C++, Python, and Unreal Engine 5
-- 💞️ I’m looking to collaborate on anything! It can be web development, game development, machine learning, or robotics engineering -- I'm down!
-- 📫 You can contact me through my Discord account: reefxr
-- 😄 I'm fine with any pronouns
-- ⚡ I love flying FPV drones -- I wish to build one myself one day
+• hi! i’m @reefxr. you can call me kai
+• i like video game development, robotics, and data science
+• i’m currently learning c++ and godot engine. planning to relearn python later
+• looking to do some activites in game development, machine learning, robotics engineering, web development, or anything
+• discord: reefxr
+• i'm fine with any pronouns!
+• fun fact: i love flying fpv drones. i wish to build one myself one day
