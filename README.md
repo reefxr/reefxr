@@ -1,4 +1,4 @@
-- hi! i’m @reefxr. you can call me kai
+- hi! i’m @reefxr. you can call me reef
 - i like video game development, robotics, and data science
 - i’m currently learning c++ and godot engine. planning to relearn python later
 - looking to do some activites in game development, machine learning, robotics engineering, web development, or anything
